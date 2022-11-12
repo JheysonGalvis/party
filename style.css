@@ -12,3 +12,16 @@
 .titulo3{
     font-family: 'Mukta', sans-serif;
 }
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: black;
+    color: white;
+}
+body{
+    background-image: url(https://media.tenor.com/HJvqN2i4Zs4AAAAj/milk-and-mocha-cute.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
