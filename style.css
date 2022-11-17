@@ -25,3 +25,31 @@ body{
     background-repeat: no-repeat;
     background-position: right;
 }
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th{
+    background-color: darkcyan;
+    color: white;
+}
+.table td:hover{
+    background-color: brown;
+    color: azure;
+}
+.table tr{
+    background-color: aqua;
+    color:black;
+    font-family: 'Acme', sans-serif;
+}
+caption{
+    font-family: 'Acme', sans-serif;
+    font-size: 26px;
+}
+.table th:hover{
+    background-color: black;
+    color: white;
+}
